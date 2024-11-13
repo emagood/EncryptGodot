@@ -1,6 +1,6 @@
 [gd_scene load_steps=2 format=3 uid="uid://cnbd2j8hk2epy"]
 
-[ext_resource type="Script" path="res://aes.gd" id="1_c2yyb"]
+[ext_resource type="Script" path="res://AES/sript/aes.gd" id="1_d1kwn"]
 
 [node name="aes" type="Control"]
 layout_mode = 3
@@ -9,4 +9,4 @@ anchor_right = 1.0
 anchor_bottom = 1.0
 grow_horizontal = 2
 grow_vertical = 2
-script = ExtResource("1_c2yyb")
+script = ExtResource("1_d1kwn")
